@@ -6,6 +6,7 @@ let num = 5
 console.log(num || 10)
 console.log(num ?? 10)
 
+//NodeJs
 //Request response cycle
 //clent - Webserver
 //mongodb,nodejs,web server(apache) are needed
